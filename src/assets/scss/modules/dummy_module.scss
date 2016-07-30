@@ -1,0 +1,8 @@
+$awesome: red;
+
+.dummyClass {
+  color: currentColor;
+  &--awesome {
+    color: $awesome;
+  }
+}
