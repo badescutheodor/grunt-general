@@ -51,13 +51,16 @@
  *     watches the files and on change rebuild the needed module
  *
  * >>> grunt images
- *     manualy optimizes images
+ *     manually optimizes images
  *
  * >>> grunt scripts
- *     manualy rebuilds scripts module
+ *     manually rebuilds scripts module
  *
  * >>> grunt styles
- *     manualy rebuilds styles module
+ *     manually rebuilds styles module
+ *
+ * >>> grunt build
+ *     deletes and generates the build folder
  *
  * -----------------------------------------------------
  */
